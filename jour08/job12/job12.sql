@@ -1,0 +1,1 @@
+SELECT * FROM salles WHERE capacite ORDER BY capacite DESC
